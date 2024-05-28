@@ -1,0 +1,11 @@
+#myCanvas {
+  border: 2px solid black;
+}
+
+canvas {
+  background-color: rgba(0, 38, 205, 0.432);
+}
+
+#cloud {
+  display: none;
+}
